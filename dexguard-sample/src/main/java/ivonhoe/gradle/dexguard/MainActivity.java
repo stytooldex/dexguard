@@ -4,6 +4,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 
+ivonhoe.gradle.dexguard.MainActivity:onCreate
+ivonhoe.gradle.dexguard.MainActivity$HelloWorld:testDexGuard
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
